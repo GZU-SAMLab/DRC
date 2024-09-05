@@ -1,0 +1,11 @@
+output/
+jobs/
+train/
+test/
+val/
+Vit/
+Siamese_Network/
+ResNeSt/
+fine/
+*.pth
+*.tar
